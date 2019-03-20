@@ -1,0 +1,2 @@
+manifestFile: webpack/manifest.development.json
+debug: true

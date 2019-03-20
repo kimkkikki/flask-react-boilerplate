@@ -1,0 +1,7 @@
+{
+    "assets": {
+        "app.js": "app.js",
+        "app.css": "app.css"
+    },
+    "publicPath": "/static/"
+}
