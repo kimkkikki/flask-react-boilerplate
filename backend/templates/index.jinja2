@@ -6,9 +6,10 @@
     <meta name="keywords" content="">
     <meta name="author" content="kimkkikki" />
     <title>Flask-React boilerplate</title>
+    {{ stylesheet_tag('main') | safe }}
 </head>
 <body>
 <div id="root"></div>
 </body>
-{{ javascript_tag('app') | safe }}
+{{ javascript_tag('main') | safe }}
 </html>

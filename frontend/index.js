@@ -10,3 +10,8 @@ ReactDOM.render(
         <Route exact path="/" component={ Home } />
     </BrowserRouter>
     , document.getElementById('root'));
+
+
+if (module.hot) {
+    module.hot.accept()
+}

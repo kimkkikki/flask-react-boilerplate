@@ -1,7 +1,0 @@
-{
-    "assets": {
-        "app.js": "app.js",
-        "app.css": "app.css"
-    },
-    "publicPath": "http://localhost:8080/static/"
-}

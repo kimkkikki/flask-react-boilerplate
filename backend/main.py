@@ -7,7 +7,7 @@ app = Flask(__name__, static_folder='../static')
 config = get_config()
 
 app.config.update({
-    'WEBPACK_MANIFEST_PATH': config['manifestFile'],
+    'WEBPACK_MANIFEST_PATH': '../static/manifest.json',
     'DEBUG': config['debug'],
     })
 webpack = Webpack()

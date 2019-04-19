@@ -1,0 +1,6 @@
+{
+  "publicPath": "",
+  "assets": {
+    "main.js": "http://localhost:8001/static/app.js"
+  }
+}
