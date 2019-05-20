@@ -1,6 +1,6 @@
 # Flask React boilerplate
 
-Simple boilerplate for flask and reactjs
+Simple boilerplate for flask and react. react hot module replacement(HMR)
 
 ## How to start
 
@@ -10,6 +10,7 @@ Simple boilerplate for flask and reactjs
 yarn install
 pipenv install
 python app.py
+
 #new terminal
 yarn start
 ```
